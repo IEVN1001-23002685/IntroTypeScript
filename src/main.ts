@@ -4,6 +4,8 @@ import typescriptLogo from './assets/typescript.svg'
 import viteLogo from './assets/vite.svg'
 import { setupCounter } from './counter.ts'
 import './temas TS/01 tipos bas.ts'
+import './temas TS/02 obj interfaz arre.ts'
+import './temas TS/03 funciones.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 <section id="center">

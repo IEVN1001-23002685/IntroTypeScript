@@ -12,3 +12,9 @@ let suma:number = num + num1
 
 console.log(suma)
 
+let matricula:number|string
+
+matricula=23002685
+matricula="Camarada"
+
+console.log(matricula)
