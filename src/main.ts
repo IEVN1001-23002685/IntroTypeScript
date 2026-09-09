@@ -6,6 +6,10 @@ import { setupCounter } from './counter.ts'
 import './temas TS/01 tipos bas.ts'
 import './temas TS/02 obj interfaz arre.ts'
 import './temas TS/03 funciones.ts'
+import './temas TS/04 desestructuracion obj-arre.ts'
+import './temas TS/05 desestructuracion de funciones.ts'
+import './temas TS/06 importar exportar.ts'
+import './temas TS/07 clases.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 <section id="center">
